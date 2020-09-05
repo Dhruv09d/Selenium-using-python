@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59b81cf2-b62c-45ca-a62e-c4102e0f1a8e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fqfa42PsB0nSdSvnvRvljPvQGf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.instagram spammer">
+    <configuration name="instagram spammer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/instagram spammer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for 23_skip_test.AppTesting" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;23_skip_test.AppTesting&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for 23_skip_test.AppTesting.test_search" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;23_skip_test.AppTesting.test_search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for 24_AssertionTest1.Test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;24_AssertionTest1.Test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in 24_AssertionTest1.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/24_AssertionTest1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.instagram spammer" />
+        <item itemvalue="Python tests.Unittests in 24_AssertionTest1.py" />
+        <item itemvalue="Python tests.Unittests for 24_AssertionTest1.Test" />
+        <item itemvalue="Python tests.Unittests for 23_skip_test.AppTesting" />
+        <item itemvalue="Python tests.Unittests for 23_skip_test.AppTesting.test_search" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59b81cf2-b62c-45ca-a62e-c4102e0f1a8e" name="Default Changelist" comment="" />
+      <created>1596950603967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596950603967</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1124" y="106" key="#22_unittest_framework" timestamp="1598072694846">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1124" y="106" key="#22_unittest_framework/0.0.1920.1080@0.0.1920.1080" timestamp="1598072694846" />
+    <state x="1124" y="110" key="#Unittests_for_20_testcase1.Test" timestamp="1598071815521">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1124" y="110" key="#Unittests_for_20_testcase1.Test.test_FirstTest" timestamp="1598031664675">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1124" y="110" key="#Unittests_for_20_testcase1.Test.test_FirstTest/0.0.1920.1080@0.0.1920.1080" timestamp="1598031664675" />
+    <state x="1124" y="110" key="#Unittests_for_20_testcase1.Test/0.0.1920.1080@0.0.1920.1080" timestamp="1598071815521" />
+    <state x="1124" y="110" key="#Unittests_for_21_testcase2.SearchEnginesTest" timestamp="1598033545697">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1124" y="110" key="#Unittests_for_21_testcase2.SearchEnginesTest/0.0.1920.1080@0.0.1920.1080" timestamp="1598033545697" />
+    <state x="1124" y="106" key="#Unittests_for_22_unittest_framework.AppTesting" timestamp="1598071840473">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1124" y="106" key="#Unittests_for_22_unittest_framework.AppTesting.test_search" timestamp="1598071808361">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1124" y="106" key="#Unittests_for_22_unittest_framework.AppTesting.test_search/0.0.1920.1080@0.0.1920.1080" timestamp="1598071808361" />
+    <state x="1124" y="106" key="#Unittests_for_22_unittest_framework.AppTesting/0.0.1920.1080@0.0.1920.1080" timestamp="1598071840473" />
+    <state x="414" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597671891783">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597671891783" />
+    <state x="690" y="233" key="FileChooserDialogImpl" timestamp="1597220098074">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="233" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1597220098074" />
+    <state width="1921" height="3" key="GridCell.Tab.0.bottom" timestamp="1598153679099">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="3" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1598153679099" />
+    <state width="1921" height="3" key="GridCell.Tab.0.center" timestamp="1598153679099">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="3" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1598153679099" />
+    <state width="1921" height="3" key="GridCell.Tab.0.left" timestamp="1598153679099">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="3" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1598153679099" />
+    <state width="1921" height="3" key="GridCell.Tab.0.right" timestamp="1598153679099">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="3" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1598153679099" />
+    <state width="1920" height="373" key="GridCell.Tab.1.bottom" timestamp="1597124481435">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="373" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597124481435" />
+    <state width="1920" height="373" key="GridCell.Tab.1.center" timestamp="1597124481435">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="373" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597124481435" />
+    <state width="1920" height="373" key="GridCell.Tab.1.left" timestamp="1597124481435">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="373" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597124481435" />
+    <state width="1920" height="373" key="GridCell.Tab.1.right" timestamp="1597124481435">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="373" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597124481435" />
+    <state x="352" y="92" key="SettingsEditor" timestamp="1597781860647">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="352" y="92" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1597781860647" />
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1598079773846">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1598079773846" />
+  </component>
+</project>
