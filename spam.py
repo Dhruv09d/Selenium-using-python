@@ -12,9 +12,9 @@ name = 'Target_name_same_as_whats_app' #do paste same emoji if name have any
 meme_lords =  driver.find_element_by_xpath("//span[@title='{}']".format(name)).click()
 msg = driver.find_element_by_xpath('//*[@id="main"]/footer/div[1]/div[2]')
 time.sleep(2)
-
+nom = int(input("enter the no of msg to be send: "))
 i = 0
-while i < 1000:
+while i < nom:
     a = random.randint(0, 4)
     msg.send_keys(list[a])
     try:
